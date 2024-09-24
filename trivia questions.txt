@@ -1,0 +1,107 @@
+var trivia = [
+  question01=	{
+    question: "Within a given film, which of the following is a scene with a song that would be considered extra-diegetic?",
+    answers: ["A: A character singing a song at a talent show.", "B: Characters in the midst of a traffic jam exiting their cars and singing about their frustration about being caught in traffic.", "C: A character singing for friends and family after being explicitly asked by them to do so.", "D: None of the above."],
+    correctAnswer: 1
+  },
+  question02= {
+    question: "Which of the following is false about the Evans Report?",
+    answers: ["A: The Evans Report suggested that the importation of foreign films to India be increased.", "B: The Evans Report advised monopolization of the Indian film industry.", "C: The Evans Report recommended purchase and redistribution of Indian films.", "D: All of the above are true."],
+    correctAnswer: 3
+  },
+  question03= {
+    question: "Which of the following is false about Indian Cinematograph Committee (ICC) of 1927?",
+    answers: ["A: The ICC was assembled by the British government.", "B: The ICC encouraged Indian Cinema.", "C: The ICC supported the Quota Act of 1927.", "D: All of the above is true."],
+    correctAnswer: 2
+  },
+  question04= {
+    question: "Which of the following is NOT a type of realism in Indian Cinema as discussed by Ashish Rajadhyaksha?",
+    answers: ["A: Modernist Realism.", "B: Nehruvian Socialist Realism.", "C: Semantic Realism.", "D: Avant-Garde realism."],
+    correctAnswer: 2
+  },
+  question05= {
+    question: "The film Dilwale Dulhania le Jayenge (Those with the heart win the bride) depicts an Indian family living in England. The family identifies with a set of “family values” that defines their Indian nationalism despite living abroad. Of the following, which are the two dilemmas that the film attempts to confront?",
+    answers: ["A: 1)Doing what is best for the individual and/or 2) doing what is best for the masses.", "B: 1) Economic liberalization /globalization and 2) the state control pre-globalization anti-democratic policies.", "C: 1) Modernization of Indian society’s changing views on arranged marriages and 2) the difficulty of transnational location and maintaining India identity.", "D: None of the above."],
+    correctAnswer: 2
+  },
+  question06= {
+    question: "In the film, GURU, of the following, which was an offense of the main character (also called Guru)?",
+    answers: ["A: Corporate Tax evasion.", "B: Violation of state-controlled business laws.", "c: Marrying his best friend’s sister for the Dowry of money he needed to start up his own business.", "D: All of the above."],
+    correctAnswer: 3
+  },
+  question07=	{
+    question: "In the movie Roja, the main character, Rishi, is sent to an area in the north of India on a government job project. This area is called Kashmir. Kashmir is a region in dispute between India and Pakistan. Why? Choose the best answer.",
+    answers: ["A: The British East India Company had sold the land to a Hindu King in 1846.", "B: Kashmir  is in the far north of India and was predominantly Muslim like Pakistan.", "C: The king of Kashmir gave up this region to Hindi India in 1947 and since this area borders on Pakistan, Pakistan objected.", "D: All of the above."],
+    correctAnswer: 3
+  },
+  question08= {
+    question: "During one of the final scenes in the movie, GURU, the main character, Guru, is being interrogated in a court of Law in India. In his defence of the accusations, to whom does Guru compare himself?",
+    answers: ["A: India’s first Prime Minister, Jawaharlal Nehru.", "B: The Bharatiya Janata Party.", "C: Mahatma Ghandi.", "D: Shah Rukh Khan."],
+    correctAnswer: 2
+  },
+  question09= {
+    question: "In Roja, Rishi is working on a Indian government operation and is sent to Kashmir to work. He is captured by Muslim militants in Kashmir and is outspoken about the transgressions against him. It is evident from the film that Rishi’s sentiments of India nationalism are also:",
+    answers: ["A: Pro-Western.", "B: Anti-Western.", "C: Pro-Muslim.", "D: Anti-Muslim."],
+    correctAnswer: 0
+  },
+  question10= {
+    question: "Central to the film, Kabhi Khushi Kabhie Gham...(KKKG), was the dramatic transformation that occurred in India in the early 1990’s which stemmed from Hindutva and Economic liberalization.  What is the difference between Hindutva and Economic Liberalization?",
+    answers: ["A: Hindutva is the process that was initiated by Prime Minister PV Narshimha Rao in 1991 to promote growth and development in India, and Economic Liberalization was launched by the BJP- Bharatiya Janata Party.", "B: Economic Liberalization was the abolishment of the “untouchables” in the Indian Caste system and Hindutva was the movement to prevent this from happening.", "C: Hindutva was the nationalism launched by the BJP- Bharatiya Janata Party as a way of strengthening the economy, and Economic Liberalization took hold in 1991 as Prime Minister PV Narshimha Rao introduced steps to reduce control of India’s state run economy.", "D: There is no difference."],
+    correctAnswer: 2
+  },
+  question11= {
+    question: "Why did Indian Cinema start using song-and-dance routines?",
+    answers: ["A: It looks nice", "B: People love dancing.", "C: To protect IC from Western impurities.", "D: It was influenced by Hollywood"],
+    correctAnswer: 2
+  },
+  question12= {
+    question: "What event marked the decline of Hollywood in India?",
+    answers: ["A: Indian Independence made citizens more patriotic  ", "B: Civil war in India ended", "C: The genre Indian Melodrama is released", "D: Indian Talkies were starting to be released in 1931"],
+    correctAnswer: 3
+  },
+  question13= {
+    question: "When did cinema first arrive in India?",
+    answers: ["A: 1896", "B: 1994", "C: 1931", "D: 1943"],
+    correctAnswer: 0
+  },
+  question14= {
+    question: "Which one of the following is NOT a recurring theme in post-globalization Indian Cinema?",
+    answers: ["A: Patriotism", "B: Sports", "C: Celebration of Culture", "D: Expatriate Indians"],
+    correctAnswer: 1
+  },
+  question15= {
+    question: "Why was Jurassic Park (1993) a milestone in Indian Cinema?",
+    answers: ["A: The movie had a groundbreaking plot", "B:The CGI was gerat", "C: Beat all other Indian films in box office", "D:It was one of the first imported films into India "],
+    correctAnswer: 2
+  },
+
+  question16= {
+    question: "Which movie is known for its portrayal of the Kashmir issue?",
+    answers: ["A: Shree 420", "B: Kati Patang", "C: Roja", "D: Chak de! India"],
+    correctAnswer: 2
+  },
+  question17= {
+    question: "When did the first kissing scenes in Indian Cinema appear?",
+    answers: ["A: 60s", "B: 70s", "C: 80s", "D: 90s"],
+    correctAnswer: 2
+  },
+  question18= {
+    question: "Bollywood films are censored with a ban on displays of physical intimacy that are overtly sexual. What sister industry has been sustained as a result of this ban?",
+    answers: ["A: Television industry.", "B: Playback singing industry.", "C: Family film Industry.", "D: Music production Industry."],
+    correctAnswer: 1
+  },
+  question19= {
+    question: "The film, Dilwale Dulhania le Jayenge, focuses on a family from India living in the UK. What is the term given to a dispersion of people not living in their homeland?",
+    answers: ["A: Diaspora.", "B: Hegemony.", "C: Agon.", "D: NRI."],
+    correctAnswer: 0
+  },
+  question20= {
+    question: "Which of the following movies was not in our syllabus?",
+    answers: ["A: Dilwale Dulhania Le Jayenge", "B: Kabhie Kushie Kabhie Gham", "C: Yeh Jawaani hai deewani ", "D:Roja"],
+    correctAnswer: 2
+  },
+  question21= {
+    question: "Who is the host of Kaun Banega Crorepati??",
+    answers: ["A: Aamir Khan", "B: John Abrahim", "C: Karan Johar", "D: Amitabh Bacchan"],
+    correctAnswer: 3
+  }];
